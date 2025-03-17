@@ -1,0 +1,49 @@
+{
+    "courses":[
+    {
+      "id": 1,
+      "title": "React.js for Beginners",
+      "desc": "Learn the fundamentals of React.js and build interactive web applications.",
+      "price": 49.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "img": "https://example.com/react-course.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Advanced JavaScript",
+      "desc": "Master JavaScript concepts like closures, promises, and async/await.",
+      "price": 59.99,
+      "instructor": "Jane Smith",
+      "isFeatured": true,
+      "img": "https://example.com/js-course.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Full-Stack Web Development",
+      "desc": "Become a full-stack developer by learning MERN stack technologies.",
+      "price": 99.99,
+      "instructor": "Robert Johnson",
+      "isFeatured": true,
+      "img": "https://example.com/fullstack-course.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Python for Data Science",
+      "desc": "Learn Python and its applications in data science and machine learning.",
+      "price": 79.99,
+      "instructor": "Alice Brown",
+      "isFeatured": true,
+      "img": "https://example.com/python-course.jpg"
+    },
+    {
+      "id": 5,
+      "title": "UI/UX Design Essentials",
+      "desc": "Master the principles of UI/UX design and create stunning user experiences.",
+      "price": 69.99,
+      "instructor": "Emily Davis",
+      "isFeatured": true,
+      "img": "https://example.com/uiux-course.jpg"
+    }
+  ]
+}
