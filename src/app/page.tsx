@@ -1,3 +1,4 @@
+import MusicSchoolTestimonials from "@/components/Cards";
 import FeaturesCourses from "@/components/FeaturesCourses";
 import HeroSection from "@/components/HeroSection";
 import WhyChooseUs from "@/components/WhyChooseUs";
@@ -10,6 +11,7 @@ export default function Home() {
       <HeroSection />
       <FeaturesCourses />
       <WhyChooseUs/>
+      <MusicSchoolTestimonials/>
     </main>
   );
 }
